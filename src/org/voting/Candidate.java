@@ -1,5 +1,5 @@
 package org.voting;
-
+//test
 import com.thoughtworks.xstream.annotations.XStreamAlias;
 
 @XStreamAlias(value = Constants.CandidateRecord)
